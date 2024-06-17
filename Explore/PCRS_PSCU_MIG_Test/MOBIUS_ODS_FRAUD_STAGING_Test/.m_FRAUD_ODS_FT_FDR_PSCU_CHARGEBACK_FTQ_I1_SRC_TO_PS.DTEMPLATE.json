@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "57zbXr3oxEngyYhuoIqZsY",
+    "name" : "m_FRAUD_ODS_FT_FDR_PSCU_CHARGEBACK_FTQ_I1_SRC_TO_PS",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114Z8170000000000GC"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapping pushed from PC to ICS : m_FRAUD_ODS_FT_FDR_PSCU_CHARGEBACK_FTQ_I1_SRC_TO_PS",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-06-17T14:14:16.588Z",
+  "objectRefs" : [ ]
+}
