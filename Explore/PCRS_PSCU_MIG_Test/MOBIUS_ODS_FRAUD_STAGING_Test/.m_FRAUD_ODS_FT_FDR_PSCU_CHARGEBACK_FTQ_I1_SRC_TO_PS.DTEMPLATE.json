@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Mapping pushed from PC to ICS : m_FRAUD_ODS_FT_FDR_PSCU_CHARGEBACK_FTQ_I1_SRC_TO_PS",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-18T15:32:52.148Z",
+  "updateTime" : "2024-06-18T15:42:15.959Z",
   "objectRefs" : [ ]
 }
