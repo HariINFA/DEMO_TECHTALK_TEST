@@ -16,13 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Mapping pushed from PC to ICS : m_FRAUD_ODS_FDR_PSCU_MOBIUS_SP_LOAD_BATCH",
+        "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-18T15:32:52.150Z",
+  "updateTime" : "2024-06-18T15:51:48.346Z",
   "objectRefs" : [ ]
 }
