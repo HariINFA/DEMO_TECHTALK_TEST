@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7rX9FDjYQUDjPJP3yrUasD",
-    "name" : "Mapping2",
+    "id" : "cKLOVACmzSgbrpZ0DZYtQE",
+    "name" : "m_FRAUD_ODS_FT_FDR_PSCU_CHARGEBACK_FTQ_I1_SRC_TO_PS",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0114Z8170000000002OG"
+        "repoHandle" : "0114Z8170000000002OH"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,11 +18,11 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-06-19T05:49:55.556Z",
+  "updateTime" : "2024-06-19T05:49:55.554Z",
   "objectRefs" : [ ]
 }
